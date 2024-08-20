@@ -110,7 +110,7 @@ body {
     text-align: left;
 }
 
-.about h2 {
+.about h2 {`
     font-size: 28px;
 }
 
@@ -131,7 +131,7 @@ body {
 }
 
 .skills {
-    background-image: url('https://t3.ftcdn.net/jpg/02/67/25/64/360_F_267256449_9zyyZVvLDI2CiNeuMAmMWGwDUXU9ZehZ.jpg');
+    background-image: url('https://images.ctfassets.net/pdf29us7flmy/4BlBzySqSHoamwAUiDxTLI/ed08ccec996c1b39135cbe47790fcf23/The_Employability_Skills_You_Need_social.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -195,15 +195,16 @@ body {
 }
 
 .project-box1 {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK7qQfRhioOLIvxM0HY_mD4FuMCdYmALReo2YeM9i34LrYnvPU_9eJSm_eEW2pi7oy8aM&usqp=CAU');
+    background-image: url('https://previews.123rf.com/images/sdecoret/sdecoret1610/sdecoret161000629/63999852-hand-drawn-project-presentation-on-blue-background.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .project-box2 {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZVknMTOchTkXOcVTY4X_i92VXZRV___qYuHk2F47yqg6RvE-Js904ILfLkUyAUnkagI&usqp=CAU');
+    background-image: url('https://previews.123rf.com/images/sdecoret/sdecoret1707/sdecoret170700172/81654282-%ED%9A%8C%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%86%90%EC%9C%BC%EB%A1%9C-%EA%B7%B8%EB%A6%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%94%84%EB%A0%88-%EC%A0%A0-%ED%85%8C%EC%9D%B4-%EC%85%98%EC%9D%98-%ED%94%BC%EC%82%AC%EA%B3%84-%EC%8B%AC%EB%8F%84.jpg');
     background-size: cover;
     background-position: center;
+    
 }
 
 .project-box h3 {
@@ -226,7 +227,7 @@ body {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    background-image: url('https://www.shutterstock.com/image-photo/retro-old-telephone-on-table-600nw-194333306.jpg');
+    background-image: url('https://www.shutterstock.com/image-photo/contact-us-help-centre-customer-600nw-2067798464.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
